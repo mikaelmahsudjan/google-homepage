@@ -1,5 +1,5 @@
 # What is this?
-I built this page while running through the 'Web Development 101' course at [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/html-css), which I highly recommend. The end result as it currently stands can be viewed at https://mikaelmahsudjan.github.io/google-homepage-copy/
+I built this page while running through the 'Web Development 101' course at [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/html-css), which I highly recommend. The end result as it currently stands can be viewed at https://mikaelmahsudjan.github.io/google-homepage
 
 It is meant to be an (almost) exact visual copy of the Google Homepage, as viewed in a desktop browser from Estonia. And yes, that last bit is actually important. If you want to see how different the Google homepage (and especially its search results) can look when viewed from different countries, I suggest you try [OpenVPN](https://openvpn.net/community/). 
 
